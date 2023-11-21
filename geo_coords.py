@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 
-#..................................................................................
-# Author  :  Bunyamin Ethem Demir
-# Github  :  https://github.com/TechnicalVillager
-# Website :  http://technicalvillager.github.io/
-# Source  :  https://github.com/TechnicalVillager/geo-coords-dronekit/
-#..................................................................................
 
 # Import Necessary Packages
 from dronekit import connect
